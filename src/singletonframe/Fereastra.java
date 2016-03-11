@@ -20,7 +20,7 @@ public class Fereastra extends JFrame implements ActionListener
 		this.add(buton);
 	}
 	
-///to do
+///to do dorin
 
 	@Override
 	public void actionPerformed(ActionEvent arg0)
